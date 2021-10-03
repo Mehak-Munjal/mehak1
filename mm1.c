@@ -7,5 +7,6 @@ scanf("%d %d",&a,&b);
 sum=a+b;
   printf("the sum is");
 printf("sum=%d",sum);
+  printf("Done");
 return 0;
 }
