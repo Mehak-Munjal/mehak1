@@ -8,5 +8,6 @@ sum=a+b;
   printf("the sum is");
 printf("sum=%d",sum);
   printf("Done");
+ /vans
 return 0;
 }
